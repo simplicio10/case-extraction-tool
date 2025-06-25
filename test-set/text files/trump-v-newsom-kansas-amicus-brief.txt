@@ -1,0 +1,921 @@
+(1 of 21), Page 1 of 21   Case: 25-3727, 06/15/2025, DktEntry: 21.2, Page 1 of 21
+
+
+
+
+                                               NO. 25-3727
+                              UNITED STATES COURT OF APPEALS
+                                  FOR THE NINTH CIRCUIT
+
+                              GAVIN NEWSOM, in his official capacity as
+                               Governor of the State of California, et al.,
+
+                                                               Plaintiffs–Appellees,
+
+                                                    v.
+
+                              DONALD J. TRUMP, in his official capacity
+                                as President of the United States, et al.,
+
+                                                               Defendants–Appellants.
+
+
+                      ON APPEAL FROM THE UNITED STATES DISTRICT COURT
+                              NORTHERN DISTRICT OF CALIFORNIA
+                                      No. 3:25-cv-04870-CRB
+                                  The Honorable Charles R. Breyer
+
+
+              BRIEF FOR THE STATES OF WASHINGTON, DELAWARE, ARIZONA,
+                  COLORADO, CONNECTICUT, HAWAIʻI, ILLINOIS, MAINE,
+              MARYLAND, MICHIGAN, MINNESOTA, NEVADA, NEW JERSEY, NEW
+               YORK, NORTH CAROLINA, OREGON, RHODE ISLAND, VERMONT,
+              WISCONSIN, AND THE OFFICE OF THE GOVERNOR OF KANSAS AS
+                  AMICI CURIAE IN SUPPORT OF PLAINTIFFS-APPELLEES’
+                 OPPOSITION TO DEFENDANTS-APPELLANTS’ EMERGENCY
+                                  MOTION FOR STAY
+
+
+              NICHOLAS W. BROWN                       KATHLEEN JENNINGS
+              Attorney General of Washington          Attorney General of Delaware
+
+              PATRICIO MARQUEZ                        IAN R. LISTON
+              EMILY NELSON                            Director of Impact Litigation
+              ANDREW HUGHES
+(2 of 21), Page 2 of 21    Case: 25-3727, 06/15/2025, DktEntry: 21.2, Page 2 of 21
+
+
+
+
+              ALEXIA DIORIO                            ROSE E. GIBSON
+              Assistant Attorneys General              Assistant Attorney General
+              Office of the Attorney General           Delaware Department of Justice
+              800 Fifth Avenue, Suite 2000
+              Seattle, WA 98104                        820 N. French Street
+              206-464-7744                             Wilmington, DE 19801
+              Patricio.Marquez@atg.wa.gov              (302) 683-8899
+              Emily.Nelson@atg.wa.gov                  Ian.Liston@deaware.gov
+              Andrew.Hughes@atg.wa.gov
+              Alexia.Diorio@atg.wa.gov
+
+                                   (Additional Amici on Signature Page)
+(3 of 21), Page 3 of 21          Case: 25-3727, 06/15/2025, DktEntry: 21.2, Page 3 of 21
+
+
+
+
+                                                    TABLE OF CONTENTS
+
+             I.     INTRODUCTION ............................................................................................ 1
+
+             II.    IDENTITY AND INTERESTS OF AMICI ..................................................... 1
+
+             III.   ARGUMENT .................................................................................................... 1
+
+                    A. Fear of Military Rule Compelled the Framers to Embed State
+                       Control of the Militias in the Constitution ................................................. 1
+
+                          1. Our Founders Sought to Prohibit Military Rule .................................. 2
+
+                          2. The Constitution Enshrines a Deliberate Balance of State and
+                             Federal Military Control ...................................................................... 3
+
+                    B. Presidents Have Carefully Avoided Domestic Deployment of the
+                       Militias Unless Absolutely Necessary........................................................ 6
+
+             IV. CONCLUSION ............................................................................................... 12
+
+
+
+
+                                                                       i
+(4 of 21), Page 4 of 21           Case: 25-3727, 06/15/2025, DktEntry: 21.2, Page 4 of 21
+
+
+
+
+                                                   TABLE OF AUTHORITIES
+
+                                                                     Cases
+
+             Bissonette v. Haig,
+               776 F.2d 1384 (8th Cir. 1985) ................................................................................1
+
+             Duncan v. Kahanamoku,
+              327 U.S. 304 (1946) ...........................................................................................2, 3
+
+             Houston v. Moore,
+              18 U.S. 1 (1820) .....................................................................................................4
+
+             Laird v. Tatum,
+               408 U.S. 1 (1972) ...................................................................................................2
+
+             Perpich v. Dep’t of Def.,
+               496 U.S. 335 (1990) ...............................................................................................8
+
+             Reid v. Covert,
+               354 U.S. 1 (1957) ...................................................................................................2
+
+                                                      Constitutional Provisions
+
+             Articles of Confederation of 1781, art. VI, para. 4. ...................................................3
+
+             U.S. Const., art. I, § 8, cls. 12-14 ...............................................................................4
+
+             U.S. Const., art. I, § 8, cls. 15-16 ...............................................................................4
+
+             U.S. Const., art. II, § 2 ...............................................................................................4
+
+             U.S. Const., art. II, § 2, cl. 1 ......................................................................................4
+
+                                                                   Statutes
+
+             10 U.S.C. § 12406 ......................................................................................................8
+
+             18 U.S.C. § 1385 ........................................................................................................7
+
+
+
+
+                                                                         ii
+(5 of 21), Page 5 of 21           Case: 25-3727, 06/15/2025, DktEntry: 21.2, Page 5 of 21
+
+
+
+
+             An Act Making Appropriations for the Support of the Army for the Fiscal
+              Year Ending June Thirtieth, Eighteen Hundred and Seventy-Nine, and for
+              Other Purposes,
+              ch. 263, § 15, 20 Stat. 145, 152 (1878). .................................................................7
+
+             The Calling Forth Act,
+               ch. 28, 1 Stat. 264 (1792) .......................................................................................5
+
+             The Dick Act,
+               ch. 196, 32 Stat. 775, § 4 (1903) ............................................................................8
+
+             The Insurrection Act of 1807,
+               2 Stat. 443 (1807) ...................................................................................................5
+
+             Pub. L. No. 60-145, § 3, 35 Stat. 400 (1908) .............................................................9
+
+             Pub. L. No. 84-1028, 70A Stat. 199 (1956) ...............................................................9
+
+                                                            Executive Orders
+
+             Exec. Order No. 11519,
+               35 Fed. Reg. 5003 (March 23, 1970) ...................................................................10
+
+             Ulysses S. Grant, Proclamation (May 3, 1871),
+               https://millercenter.org/the-presidency/presidential-speeches/may-3-1871-
+               message-regarding-fourteenth-amendment. ...........................................................7
+
+             Ulysses S. Grant, Proclamation 3972 (March 23, 1970),
+               https://www.lawandfreedom.com/site/executive/execorders/Nixon.pdf.............11
+
+                                                           Other Authorities
+
+             1908 Cong. Rec. 6942 (Statement of Rep. Parker of NJ),
+               https://www.congress.gov/bound-congressionalrecord/1908/05/25/42/house
+               -section/article/6893-6949?q=%7B%22search%22%3A%221908+Cong.+R
+               ec.+6942%22%7D&s=1&r=1. ...............................................................................9
+
+             Alexander F. Barnes, On the Border: The Nat'l Guard mobilizes for war in
+               1916, U.S. Army (Feb. 26, 2016),
+               https://www.army.mil/article/162413/on_the_border_the_national_guard_m
+               obilizes_for_war_in_1916. ...................................................................................10
+
+
+                                                                        iii
+(6 of 21), Page 6 of 21            Case: 25-3727, 06/15/2025, DktEntry: 21.2, Page 6 of 21
+
+
+
+
+             Frederick Bernays Wiener, The Militia Clause of the Constitution,
+               54 Harv. L. Rev. 181, n.74 (Dec. 1940) .................................................................8
+
+             H.R. Rep. No. 1094,
+               57th Cong., 1st Sess. (1902) ...................................................................................8
+
+             Homer Bigart, Mil. in Post Offs., Begins Handling the Mail, NY Times
+              (March 24, 1970),
+              https://www.nytimes.com/1970/03/24/archives/military-in-post-offices-
+              begins-handling-the-mail-military-in-post.html ...................................................11
+
+             Joseph Nunn & Elizabeth Goitein, Guide to Invocations of the Insurrection
+               Act, Brennan Ctr. for Just. (Apr. 25, 2022),
+               https://www.brennancenter.org/our-work/research-reports/guide-
+               invocations-insurrection-act. ..................................................................................6
+
+             Memorandum from Deputy Assistant Att’y Gen. Mary C. Lawton to Assistant
+              Att’y Gen. Antonin Scalia, Laws Relating to Civil Disturbances
+              (Jan. 6, 1975),
+              https://www.justice.gov/d9/pages/attachments/2022/09/02/la_19750106_la
+              w_relating_to_civil_disturbances_0.pdf. ...............................................................6
+
+             Off. of the Judge Advoc. Gen., Fed. Aid in Domestic Disturbances
+              1903-1922, S. Doc. No. 263, at 10, 67th Cong., 2d Sess. (1922),
+              https://babel.hathitrust.org/cgi/pt?id=pst.000057379777&seq=7. .........................3
+
+             Today in Hist. – March 5, The Boston Massacre: A Hist. with Documents,
+               Libr. of Congress,
+               https://www.loc.gov/item/today-in-history/march-05/ (last visited
+               6/14/2025). ..............................................................................................................2
+
+             Ulysses S. Grant to the House of Reps. (Jan. 22, 1877), quoted in G. Norman
+               Lieber, Use of the Army in Aid of the Civil Power, at 8 (1898),
+               https://archive.org/details/useofarmyinaidof00liebrich/page/n3/mode/2up. .........7
+
+
+
+
+                                                                          iv
+(7 of 21), Page 7 of 21     Case: 25-3727, 06/15/2025, DktEntry: 21.2, Page 7 of 21
+
+
+
+
+                                           I.          INTRODUCTION
+
+                    President Trump’s deployment of California’s National Guard, without the
+
+             consent of California’s Governor and in violation of the statute on which the
+
+             President relies, is unlawful, unconstitutional, and undemocratic. It is inconsistent
+
+             with one of our Nation’s founding principles that freedom depends on the
+
+             subordination of the military to civilian authority. By calling forth troops when there
+
+             is no invasion to repel, no rebellion to suppress, and when state and local law
+
+             enforcement is fully able to execute the laws, the President flouts the vision of our
+
+             Founders, undermines the rule of law, and sets a chilling precedent that puts the
+
+             constitutional rights of all Americans at risk.
+
+                             II.    IDENTITY AND INTERESTS OF AMICI
+
+                    The identity and interests of the Amici States are detailed in their
+
+             contemporaneously filed Motion for Leave to file this brief.
+
+                                                III.    ARGUMENT
+
+             A.     Fear of Military Rule Compelled the Framers to Embed State Control of
+                    the Militias in the Constitution
+
+                    “Civilian rule is basic to our system of government.” Bissonette v. Haig,
+
+             776 F.2d 1384, 1387 (8th Cir. 1985), on reh’g, 800 F.2d 812 (8th Cir. 1986), aff’d,
+
+             485 U.S. 264 (1988). Civilian authority is necessary to uphold our liberties, because
+
+             the “use of military forces to seize civilians can expose civilian government to the
+
+             threat of military rule and the suspension of constitutional liberties.” Id. Military
+
+                                                          1
+(8 of 21), Page 8 of 21     Case: 25-3727, 06/15/2025, DktEntry: 21.2, Page 8 of 21
+
+
+
+
+             force threatens “vital Fourth and Fifth Amendment rights,” “chill[s] the exercise” of
+
+             the rights to “speak freely and to vote,” and can “create the atmosphere of fear and
+
+             hostility which exists in territories occupied by enemy forces.” Id. Accordingly, “a
+
+             traditional and strong resistance of Americans to any military intrusion into civilian
+
+             affairs . . . has deep roots in our history.” Laird v. Tatum, 408 U.S. 1, 15 (1972).
+
+             President Trump’s unconstitutional deployment of the National Guard threatens this
+
+             tradition and the freedoms it protects.
+
+                    1.    Our Founders Sought to Prohibit Military Rule
+
+                    One of the Founders’ “well-established purpose[s]” was to keep the military
+
+             subordinate to civil authority. Reid v. Covert, 354 U.S. 1, 30 (1957); see also Duncan
+
+             v. Kahanamoku, 327 U.S. 304, 320 (1946). Indeed, King George III’s deployment
+
+             of British soldiers in the colonies galvanized a revolution. Starting in 1768, the King
+
+             quartered British troops in Boston “to intimidate the local populace.” Reid, 354 U.S.
+
+             at 27. In 1770, Redcoats deployed to enforce unpopular tax acts murdered five
+
+             protestors in the Boston Massacre, sparking our Revolution.1
+
+                    The Founders thus embraced a commitment to civilian control, even as they
+
+             faced down a war. In drafting the Articles of Confederation, the Continental
+
+             Congress placed primary reliance on state militias to provide security in
+
+
+                    1
+                      See Today in Hist. – March 5, The Boston Massacre: A Hist. with
+             Documents, Libr. of Congress, https://www.loc.gov/item/today-in-history/march-
+             05/ (last visited 6/14/2025).
+
+                                                       2
+(9 of 21), Page 9 of 21       Case: 25-3727, 06/15/2025, DktEntry: 21.2, Page 9 of 21
+
+
+
+
+             emergencies, while eschewing the role of federal troops.2 They further provided that
+
+             each state’s militia was limited to those functions needed for the “defense” of the
+
+             state.
+
+                      Under the Articles, “[t]he executive and military officials who . . . found it
+
+             necessary to utilize the armed forces to keep order in a young and turbulent nation,
+
+             did not lose sight . . . that existing civilian government . . . [was] not to be interfered
+
+             with by the exercise of military power.” Kahanamoku, 327 U.S. at 320. For example,
+
+             in 1786, when insurrectionists armed themselves to attack federal facilities in what
+
+             became known as Shays’ Rebellion, Massachusetts’ governor deployed the militia
+
+             to assist civil law enforcement. But the governor decreed the militia was “to consider
+
+             [themselves] in all [their] military offensive operations constantly as under the
+
+             direction of the civil officer[.]” 3
+
+                      2.    The Constitution Enshrines a Deliberate Balance of State and
+                            Federal Military Control
+
+                      When the Framers met to craft a new Constitution in 1787, the document they
+
+             created reflected their concerns about military subversion of civilian rule, while
+
+             acknowledging that some national military might be necessary to supplement the
+
+             state militias. The result was a compromise: the Framers cautiously embraced a
+
+
+                      2
+                      Articles of Confederation of 1781, art. VI, para. 4.
+                    3
+                      Off. of the Judge Advoc. Gen., Fed. Aid in Domestic Disturbances
+             1903-1922, S. Doc. No. 263, at 10, 67th Cong., 2d Sess. (1922),
+             https://babel.hathitrust.org/cgi/pt?id=pst.000057379777&seq=7.
+
+                                                         3
+(10 of 21), Page 10 of 21     Case: 25-3727, 06/15/2025, DktEntry: 21.2, Page 10 of 21
+
+
+
+
+             standing army under the command of a civilian Commander-in-Chief, and gave
+
+             Congress, not the President, authority to raise, support, and regulate the armed
+
+             forces. U.S. Const., art. II, § 2, cl. 1; art. I, § 8, cls. 12-14. Meanwhile, the Framers
+
+             preserved a primary role for “the Militia of the several States.” Id., art. II, § 2.
+
+             Congress was empowered “[t]o provide for calling forth the Militia to execute the
+
+             Laws of the Union, suppress Insurrections and repel Invasions” and “[t]o provide for
+
+             organizing, arming, and disciplining, the Militia, and for governing such Part of them
+
+             as may be employed in the Service of the United States, reserving to the States
+
+             respectively, the Appointment of the Officers, and the Authority of training the
+
+             Militia according to the discipline prescribed by Congress[.]” Id., art. I, § 8,
+
+             cls. 15-16. The President was assigned the role of “Commander in Chief of . . . the
+
+             Militia of the several States” only “when called into the actual Service of the United
+
+             States[.]” Id., art. II, § 2.
+
+                    Thus, Congress was given the power to provide for calling state militias into
+
+             national service—but only in cases of invasion, insurrection, or breakdown in federal
+
+             law. And when called forth, the President would exercise authority as Commander-
+
+             in-Chief. Otherwise, state militias remained entirely within the states’ control. See
+
+             Houston v. Moore, 18 U.S. 1, 50 (1820) (Story, J., concurring) (“[T]he power here
+
+             given to Congress over the militia[] is of a limited nature, and confined to the objects
+
+
+
+
+                                                         4
+(11 of 21), Page 11 of 21   Case: 25-3727, 06/15/2025, DktEntry: 21.2, Page 11 of 21
+
+
+
+
+             specified in these clauses; . . . in all other respects, and for all other purposes, the
+
+             militia are subject to the control and government of the State authorities.”).
+
+                    In this vein, Congress passed the Calling Forth Act in 1792, 1 Stat. 264, § 1
+
+             (1792), which authorized the President to deploy state militias “whenever the United
+
+             States shall be invaded, or be in imminent danger of invasion from any foreign nation
+
+             or Indian tribe . . . to repel such invasion.” Id. In the event of “insurrection,” the
+
+             President was empowered to federalize state militias only “on application of the
+
+             legislature” of the state facing the insurrection, “or of the executive (when the
+
+             legislature cannot be convened).” Id., § 2. The Act also authorized the President to
+
+             deploy militias without a state’s request, but only if “the laws of the United States
+
+             shall be opposed, or the execution thereof obstructed . . . by combinations too
+
+             powerful to be suppressed by the ordinary course of judicial proceedings, or by the
+
+             powers vested in the [federal] marshals.” Id. In    1807,    Congress     passed    the
+
+             Insurrection Act, permitting the President to deploy regular military forces in the
+
+             same circumstances as state militias. 2 Stat. 443 (1807).
+
+                    With this, the balance of state and federal authority was set, and has since
+
+             remained essentially unchanged, with the President’s authority to deploy militias for
+
+             domestic law enforcement carefully conscribed.
+
+
+
+
+                                                        5
+(12 of 21), Page 12 of 21   Case: 25-3727, 06/15/2025, DktEntry: 21.2, Page 12 of 21
+
+
+
+
+             B.     Presidents Have Carefully Avoided Domestic Deployment of the Militias
+                    Unless Absolutely Necessary
+
+                    Since 1792, the President has only used militia in domestic law enforcement
+
+             as “a last resort,” when a state requested help to quell an insurrection, when
+
+             necessary to enforce a federal court order, or when state and local law enforcement
+
+             are unable to enforce the law.4 Between 1792 and June 2025, Presidents relied on
+
+             the Calling Forth and Insurrection Acts approximately thirty times to engage
+
+             National Guards in domestic law enforcement.5 Presidents have called the National
+
+             Guard forth to respond to armed uprisings like the Whiskey Rebellion in 1794 and
+
+             the Brooks-Baxter War in 1874; riots like the Colfax Massacre in 1873 and the Los
+
+             Angeles Riots in 1992; the Civil War and post-war reign of terror by the Ku Klux
+
+             Klan; crippling labor strife like the Colorado Coalfield War of 1914 and the Battle
+
+             of Blair Mountain in 1921; and states’ refusals to comply with desegregation orders
+
+             and protect civil rights protestors in Little Rock in 1957 and Selma in 1965.6
+
+                    Meanwhile, Congress periodically adjusted the guardrails to ensure the
+
+             President’s ability to respond to emergencies, while protecting the delicate
+
+
+
+                    4
+                      Memorandum from Antonin Scalia to the Deputy Att’y Gen., Laws Relating
+             to Civil Disturbances (Jan. 6, 1975), https://www.justice.gov/d9/pages/attachments/
+             2022/09/02/la_19750106_law_relating_to_civil_disturbances_0.pdf.
+                    5
+                      See generally Joseph Nunn & Elizabeth Goitein, Guide to Invocations of the
+             Insurrection Act, Brennan Ctr. for Just. (Apr. 25, 2022), https://www
+             .brennancenter.org/our-work/research-reports/guide-invocations-insurrection-act.
+                    6
+                      Nunn & Goitein, supra note 5.
+
+                                                       6
+(13 of 21), Page 13 of 21   Case: 25-3727, 06/15/2025, DktEntry: 21.2, Page 13 of 21
+
+
+
+
+             state-federal balance. During Reconstruction, President Grant deployed armed
+
+             forces on multiple occasions to support fragile Reconstruction governments and
+
+             address the threats of the Ku Klux Klan and other terrorist groups.7 In this unique
+
+             epoch, extensive military involvement was indispensable in reconstructing a
+
+             shattered nation and protecting the rights of newly freed slaves.8
+
+                    In 1876, however, Republican Rutherford B. Hayes lost the popular vote, but
+
+             won the electoral vote only after promising to withdraw federal troops from the
+
+             former Confederacy. Shortly thereafter, Congress passed the Posse Comitatus Act
+
+             to restrict any further use of the armed forces for domestic law enforcement.9
+
+             As presently codified, the Act provides:
+
+                    Whoever, except in cases and under circumstances expressly
+                    authorized by the Constitution or Act of Congress, willfully uses any
+                    part of the Army, the Navy, the Marine Corps, the Air Force, or the
+                    Space Force as a posse comitatus or otherwise to execute the laws shall
+                    be fined . . . or imprisoned[.]
+
+             18 U.S.C. § 1385. After the experience of Reconstruction, the Posse Comitatus Act
+
+             reestablished the antebellum balance. It sharply limited military involvement in
+
+
+                    7
+                        Id.; see also Ulysses S. Grant, Proclamation (May 3, 1871),
+             https://millercenter.org/the-presidency/presidential-speeches/may-3-1871-message-
+             regarding-fourteenth-amendment.
+                    8
+                      Ulysses S. Grant to the House of Reps. (Jan. 22, 1877), quoted in G. Norman
+             Lieber, Use of the Army in Aid of the Civil Power, at 8 (1898),
+             https://archive.org/details/useofarmyinaidof00liebrich/page/n3/mode/2up.
+                    9
+                      An Act Making Appropriations for the Support of the Army for the Fiscal
+             Year Ending June Thirtieth, Eighteen Hundred and Seventy-Nine, and for Other
+             Purposes, ch. 263, § 15, 20 Stat. 145, 152 (1878).
+
+                                                        7
+(14 of 21), Page 14 of 21   Case: 25-3727, 06/15/2025, DktEntry: 21.2, Page 14 of 21
+
+
+
+
+             civilian affairs, while preserving some flexibility for the President to use armed
+
+             forces in extraordinary circumstances.
+
+                    Congress next spoke in 1903. Following the Spanish-American War,
+
+             Congress passed the Militia Act of 1903—known as the Dick Act—to improve the
+
+             readiness and training of the state militias.10 The Dick Act created the modern
+
+             National Guard and set forth the circumstances under which they may be federalized.
+
+             See Perpich v. Dep’t of Def., 496 U.S. 335, 342 (1990). As Representative Charles
+
+             Dick, then-Chairman of the Committee on Militia explained, the President could not
+
+             call up the National Guard at “his arbitrary pleasure” but only in specific enumerated
+
+             circumstances.11 He noted, “[i]t was the hereditary fear of standing armies, as a
+
+             menace to liberty in time of peace, which lead the framers of the Constitution to
+
+             provide that the militia should always remain a militia of the States.”12
+
+                    Consistent with this unbroken tradition of restricting the President’s authority
+
+             to call up the National Guard, Section 4 of the Dick Act included the provision that
+
+             would later become 10 U.S.C. § 12406. As initially passed, it provided:
+
+                    That whenever the United States is invaded, or in danger of invasion
+                    from any foreign nation, or of rebellion against the authority of the
+                    Government of the United States, or the President is unable, with the
+
+                    10
+                      The Dick Act, ch. 196, 32 Stat. 775, § 4 (1903).
+                   11
+                      Frederick Bernays Wiener, The Militia Clause of the Constitution, 54 Harv.
+             L. Rev. 181, n.74 (Dec. 1940) (citing H.R. Rep. No. 1094, 57th Cong., 1st Sess., at
+             22-23 (1902)).
+                   12
+                      Id.
+
+                                                        8
+(15 of 21), Page 15 of 21   Case: 25-3727, 06/15/2025, DktEntry: 21.2, Page 15 of 21
+
+
+
+
+                    other forces at his command, to execute the laws of the Union in any
+                    part thereof, it shall be lawful for the President to call forth, for a period
+                    not exceeding nine months, such number of the militia of the State or
+                    of the States or Territories or of the District of Columbia as he may
+                    deem necessary to repel such invasion, suppress such rebellion, or to
+                    enable him to execute such laws, and to issue his orders for that purpose
+                    to such officers of the militia as he may think proper.
+
+             Perhaps in response to the experience of the Civil War during which some pro-
+
+             slavery Union states declined to send forth their militias,13 this early version of the
+
+             statute did not include any role for state governors. But just five years later, before
+
+             Section 4 was ever invoked, Congress amended the statute to add the requirement
+
+             that when the President has need to nationalize the Guard in the face of invasion,
+
+             rebellion, or inability to enforce the laws, he must “issue his orders for that purpose,
+
+             through the governor of the respective State or Territory, or through the commanding
+
+             general of the militia of the District of Columbia, from which State, Territory, or
+
+             District such troops may be called.”14 In 1956, when the Dick Act was recodified
+
+             into Title 10, the statute was amended into its current form15:
+
+                    Whenever-
+                        (1) the United States, or any of the Commonwealths or possessions,
+                    is invaded or is in danger of invasion by a foreign nation;
+
+
+                    13
+                        See 1908 Cong. Rec. 6942 (Statement of Rep. Parker of NJ),
+             https://www.congress.gov/bound-congressional-record/1908/05/25/42/house-
+             section/article/6893-6949?q=%7B%22search%22%3A%221908+Cong.+Rec.+
+             6942%22%7D&s=1&r=1.
+                    14
+                       Pub. L. No. 60-145, § 3, 35 Stat. 400 (1908).
+                    15
+                       Pub. L. No. 84-1028, 70A Stat. 199 (1956).
+
+                                                          9
+(16 of 21), Page 16 of 21    Case: 25-3727, 06/15/2025, DktEntry: 21.2, Page 16 of 21
+
+
+
+
+                        (2) there is a rebellion or danger of a rebellion against the authority
+                    of the Government of the United States; or
+
+                        (3) the President is unable with the regular forces to execute the laws
+                    of the United States;
+
+                       the President may call into Federal service members and units of the
+                    National Guard of any State in such numbers as he considers necessary
+                    to repel the invasion, suppress the rebellion, or execute those laws.
+                    Orders for these purposes shall be issued through the governors of the
+                    States or, in the case of the District of Columbia, through the
+                    commanding general of the National Guard of the District of Columbia.
+
+                    In the hundred-plus years Section 12406 has been on the books, it has only
+
+             been invoked twice. In 1916, after Pancho Villa attacked the United States in an
+
+             ongoing border dispute, U.S. Army forces chased him into Mexico. With the Army
+
+             drawn away, other Mexican forces attacked undefended towns in Texas, leading
+
+             President Wilson to call up National Guard units to defend against any further
+
+             incursions.16
+
+                    Section 12406 was next invoked 54 years later, when President Nixon called
+
+             upon the Guard to deliver mail during a Postal Service Strike. Exec. Order No.
+
+             11519, 35 Fed. Reg. 5003 (March 23, 1970). The strike had stopped mail delivery
+
+             entirely in New York, despite federal law “requir[ing] that the business of the Post
+
+             Office Department, including the expeditious processing and delivery of the mail,
+
+             be regularly carried on.” Id. Because he was “unable solely with the regular forces”
+
+
+                    16
+                    Alexander F. Barnes, On the Border: The Nat’l Guard mobilizes for war in
+             1916, U.S. Army (Feb. 26, 2016), https://www.army.mil/article/162413/
+             on_the_border_the_national_guard_mobilizes_for_war_in_1916.
+
+                                                        10
+(17 of 21), Page 17 of 21   Case: 25-3727, 06/15/2025, DktEntry: 21.2, Page 17 of 21
+
+
+
+
+             to carry out these laws, President Nixon declared a national emergency,
+
+             see Proclamation 3972, and federalized the Guard to deliver mail.17
+
+                    In the 55 years since, Section 12406 has lain dormant.
+
+                    As this history makes clear, President Trump’s invocation of Section 12406
+
+             to deploy armed National Guard soldiers and entangle them in protests that local law
+
+             enforcement is able to manage—over the objection of California’s Governor—is
+
+             unprecedented in our history. It runs contrary to our nation’s unbroken tradition of
+
+             restraint in using the armed forces to conduct law enforcement. It undermines the
+
+             historical and constitutionally enshrined balance between state and local authority.
+
+             And it threatens the civil liberties of all Americans. While our leaders have long
+
+             recognized that the armed forces might sometimes be necessary to respond to
+
+             emergencies, they have only been used as a last resort, and always with an eye
+
+             toward respecting the primacy of civil law enforcement and state control of the
+
+             militias.
+
+                    For good reason. Under Appellants’ theory, a president could make
+
+             unfounded claims of voter fraud and then send federalized National Guard troops to
+
+             seize voting machines based on his determination that state election officers are
+
+             unable to enforce federal election law. Or a president could determine states were
+
+
+                    17
+                      Homer Bigart, Mil. in Post Offs., Begins Handling the Mail, NY Times
+             (March 24, 1970), https://www.nytimes.com/1970/03/24/archives/military-in-post-
+             offices-begins-handling-the-mail-military-in-post.html (digitized version).
+
+                                                      11
+(18 of 21), Page 18 of 21   Case: 25-3727, 06/15/2025, DktEntry: 21.2, Page 18 of 21
+
+
+
+
+             insufficiently enforcing gun safety laws and send the National Guard house-to-house
+
+             to inspect Americans’ weapons and seize any that could arguably be used in a
+
+             rebellion. This cannot be, and the Court should make clear that President Trump’s
+
+             invocation of Section 12406 undermines one of our Nation’s founding principles:
+
+             that freedom depends on the subordination of the military to civilian authority.
+
+                                            IV.   CONCLUSION
+
+                    This Court should deny Appellants’ request for a Stay.
+
+                    DATED this 15th day of June 2025.
+
+             Respectfully submitted,
+
+              NICHOLAS W. BROWN                        KATHLEEN JENNINGS
+              Attorney General of Washington           Attorney General of Delaware
+
+              s/ Patricio Marquez                      s/ Ian R. Liston
+              PATRICIO MARQUEZ                         IAN R. LISTON
+              EMILY NELSON                             Director of Impact Litigation
+              ANDREW HUGHES                            ROSE E. GIBSON
+              ALEXIA DIORIO                            Assistant Attorney General
+              Assistant Attorneys General              Delaware Department of Justice
+              Office of the Attorney General           820 N. French Street
+              800 Fifth Avenue, Suite 2000             Wilmington, DE 19801
+              Seattle, WA 98104                        (302) 683-8899
+              206-464-7744                             Ian.Liston@delaware.gov
+              Patricio.Marquez@atg.wa.gov
+              Emily.Nelson@atg.wa.gov
+              Andrew.Hughes@atg.wa.gov
+              Alexia.Diorio@atg.wa.gov
+
+
+              KRISTIN K. MAYES                        PHILIP J. WEISER
+              Attorney General of Arizona             Attorney General of Colorado
+              2005 N. Central Ave.                    Colorado Department of Law
+              Phoenix, AZ 85004                       1300 Broadway, 10th Floor
+                                                      Denver, CO 80203
+
+
+
+                                                      12
+(19 of 21), Page 19 of 21   Case: 25-3727, 06/15/2025, DktEntry: 21.2, Page 19 of 21
+
+
+
+
+              WILLIAM TONG                             ANNE E. LOPEZ
+              Attorney General of Connecticut          Attorney General of Hawaiʻi
+              165 Capitol Avenue                       Department of the Attorney General
+              Hartford, CT 06106                       425 Queen Street
+                                                       Honolulu, HI 96813
+
+              KWAME RAOUL                              AARON M. FREY
+              Attorney General of Illinois             Attorney General of Maine
+              115 S. LaSalle St.                       6 State House Station
+              Chicago, IL 60603                        Augusta, ME 04333-0006
+
+              ANTHONY G. BROWN                         DANA NESSEL
+              Attorney General of Maryland             Michigan Attorney General
+              200 Saint Paul Place                     P.O. Box 30212
+              Baltimore, MD 21202                      Lansing, MI 48909
+              KEITH ELLISON                            AARON D. FORD
+              Attorney General                         Attorney General
+              State of Minnesota                       State of Nevada
+              102 State Capitol                        100 North Carson Street
+              75 Rev. Dr. Martin Luther King Jr.       Carson City, NV 89701
+              Blvd.
+              St. Paul, MN 55155
+
+              MATTHEW J. PLATKIN                       LETITIA JAMES
+              Attorney General                         Attorney General
+              State of New Jersey                      State of New York
+              25 Market Street                         28 Liberty Street
+              Trenton, NJ 08625                        New York, NY 10005
+
+              JEFF JACKSON                             DAN RAYFIELD
+              Attorney General of North Carolina       Attorney General of Oregon
+              PO Box 629                               1162 Court Street NE
+              Raleigh, NC 27602                        Salem, OR 97301
+
+              PETER F. NERONHA                         CHARITY R. CLARK
+              Attorney General                         Vermont Attorney General
+              State of Rhode Island                    109 State Street
+              150 South Main Street                    Montpelier, VT 05609
+              Providence, RI 02903
+              JOSHUA L. KAUL                           JUSTIN WHITTEN
+              Attorney General of Wisconsin            Attorney for Governor Kelly
+              17 W. Main Street                        Office of the Governor of Kansas
+              Madison, WI 53703                        300 SW 10th Ave., Suite 541-E
+                                                       Topeka, KS 66612
+
+
+                                                      13
+(20 of 21), Page 20 of 21   Case: 25-3727, 06/15/2025, DktEntry: 21.2, Page 20 of 21
+
+
+
+
+                                   CERTIFICATE OF COMPLIANCE
+
+                    This brief complies with Federal Rule of Appellate Procedure 29(a)(5),
+
+             because it is 2,793 words, less than half of the length of a principal brief authorized
+
+             by Federal Rule of Appellate Procedure 27(d)(2)(A) and Circuit Rule 32-2-(b). This
+
+             brief also complies with the typeface and type-style requirements of Federal Rule of
+
+             Appellate Procedure 32(a)(4)-(6) because it was prepared in 8 1/2 by 11 inch paper,
+
+             double-spaced, at least one inch margins on all four sides, headings and footnotes
+
+             single-spaced, quotations more than two lines are indented, and 14-point Times New
+
+             Roman font, a proportionally spaced typeface.
+
+
+
+                    DATED this 15th day of June 2025.
+
+
+                                                           s/ Patricio Marquez
+                                                           PATRICIO MARQUEZ
+(21 of 21), Page 21 of 21   Case: 25-3727, 06/15/2025, DktEntry: 21.2, Page 21 of 21
+
+
+
+
+                                      CERTIFICATE OF SERVICE
+
+                    I certify that on June 25, 2025, I electronically filed the foregoing document
+
+             with the Clerk of the Court of the United States Court of Appeals for the Ninth
+
+             Circuit by using the appellate ACMS system. I further certify that all participants in
+
+             this case are registered ACMS users and service will be accomplished by the
+
+             appellate system.
+
+
+
+                    DATED this 15th day of June 2025.
+
+
+                                                           s/ Patricio Marquez
+                                                           PATRICIO MARQUEZ

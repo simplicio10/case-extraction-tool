@@ -1,0 +1,215 @@
+IN THE UNITED STATES DISTRICT COURT FOR THE
+                            WESTERN DISTRICT OF MISSOURI
+                                 WESTERN DIVISION
+
+KC PROCESSING COMPANY, LLC,                        )
+                                                   )
+       Plaintiff,                                  )
+                                                   )
+       v.                                          )          No. 4:25-cv-00442-DGK
+                                                   )
+J.L.E.T. ENTERPRISES SWF, LLC, et al.,             )
+                                                   )
+       Defendants.                                 )
+
+       ORDER DENYING MOTION FOR TEMPORARY RESTRAINING ORDER
+
+       This case arises out of a soured business relationship between a franchisor and franchisee.
+
+Plaintiff Three Dog Bakery, LLC alleges that Defendants J.L.E.T. Enterprises SWF, LLC, Joseph
+
+Naughton, and Lynette Naughton breached the franchise agreement and misappropriated
+
+Plaintiff’s trade secrets when they continued operating a pet bakery in Sarasota, Florida, after their
+
+franchise agreement was terminated.
+
+       Now before the Court is Plaintiff’s Ex Parte Motion for Temporary Restraining Order.
+
+ECF No. 3. Plaintiff requests a temporary restraining order enjoining and restraining Defendants
+
+from violating the franchise agreement’s noncompete provision and using its confidential
+
+information, licensed marks, equipment, and processes.
+
+       After carefully reviewing the motion and the existing record, the Court holds Plaintiff has
+
+not met its burden for the Court to issue a temporary restraining order. The request for temporary
+
+restraining order is DENIED.
+
+                                            Background
+
+       Plaintiff’s allegations are detailed in its Verified Complaint, motion, and suggestions in
+
+support of the motion, all of which the Court has carefully reviewed. Compl., ECF No. 1; Mot.
+
+
+
+
+        Case 4:25-cv-00442-DGK            Document 8       Filed 06/16/25       Page 1 of 5
+for TRO and Prelim. Inj., ECF No. 3; Suggestions in Supp., ECF No 4. The allegations will not
+
+be repeated here.
+
+                    Standard for Issuance of a Temporary Restraining Order
+
+        A temporary restraining order is an “extraordinary and drastic remedy, one that should not
+
+be granted unless the movant, by a clear showing, carries the burden of persuasion.” Mazurek v.
+
+Armstrong, 520 U.S. 968, 972 (1997) (quotation omitted). The Eighth Circuit applies the same
+
+standards to a request for a preliminary injunction and temporary restraining order. See S.B.
+
+McLaughlin & Co. v. Tudor Oaks Condo. Project, 877 F.2d 707, 708 (8th Cir. 1989).
+
+        The factors this Court considers in any such request are: (1) the threat of irreparable harm
+
+to the movant; (2) the balance between this harm and any injury that granting the injunction will
+
+inflict on the non-moving party; (3) the likelihood that the moving party will prevail on the merits;
+
+and (4) the public interest. Phelps-Roper v. Nixon, 509 F.3d 480, 484 (8th Cir. 2007) (citing
+
+Dataphase Sys. Inc. v. CL Sys., Inc., 640 F.2d 109, 113 (8th Cir. 1981) (en banc)). No single factor
+
+is determinative; they “must be balanced to determine whether they tilt towards or away from
+
+granting” the injunction. Noodles Dev., LP. v. Ninth St. Partners, LLP, 507 F. Supp. 2d 1030,
+
+1034 (E.D. Mo. 2007).
+
+                                            Discussion
+
+   I.      Plaintiff has not demonstrated a threat of irreparable harm.
+
+        To demonstrate a sufficient threat of irreparable harm, the moving party must show that
+
+there is no adequate remedy at law; that is, that an award of damages cannot compensate the
+
+movant for the harm. See id. at 1036–37. Irreparable harm must be certain and imminent such
+
+“that there is a clear and present need for equitable relief.” Iowa Utils. Bd. v. F.C.C., 109 F.3d
+
+418, 425 (8th Cir. 1996). Possible or speculative harm is not sufficient. See Local Union No. 884,
+
+
+
+                                                 2
+
+        Case 4:25-cv-00442-DGK           Document 8        Filed 06/16/25      Page 2 of 5
+United Rubber, Cork, Linoleum, & Plastic Workers of Am. v. Bridgestone / Firestone, Inc., 61 F.3d
+
+1347, 1355 (8th Cir. 1995). “Failure to show irreparable harm is an independently sufficient
+
+ground upon which to deny [a temporary restraining order].” Watkins Inc. v. Lewis, 346 F.3d 841,
+
+844 (8th Cir. 2003).
+
+         Here, Plaintiff’s Verified Complaint lacks “specific facts . . . show[ing] that immediate and
+
+irreparable injury, loss, or damage will result” if a temporary restraining order is not granted. See
+
+Fed. R. Civ. P. 65(b)(1)(A).       Specifically, the Verified Complaint states only that “[u]pon
+
+information and belief, Defendants continue to operate a Three Dog Bakery in Sarasota, Florida at
+
+the Location despite having had their 2021 Franchise Agreement terminated.” Compl. ¶ 44. But
+
+a single allegation made on information and belief provides no basis for the extraordinary and
+
+drastic remedy of an ex parte temporary restraining order.
+
+         Further, Plaintiff terminated the franchise agreement on May 18, 2025, and then waited a
+
+month to seek emergency injunctive relief. This delay undercuts Plaintiff’s claim of urgency. See
+
+Ng v. Bd. of Regents, 64 F.4th 992, 997 (8th Cir. 2023) (noting that “an unreasonable delay in
+
+moving for the injunction can undermine a showing of irreparable harm”).              This concern is
+
+reinforced by the timing of this case, which was filed shortly after the Court granted a preliminary
+
+injunction in a separate matter involving Plaintiff and another franchisee. The sequence of events
+
+suggests judge shopping rather than a genuine need for urgent relief.
+
+         As such, the first factor weighs against issuing a preliminary injunction.
+
+   II.      Plaintiff has shown the balance of harms favors issuing a TRO.
+
+         Plaintiff argues that without the issuance of a preliminary injunction the risk to them is
+
+great. Plaintiff also contends that Defendants will not suffer any harm because “injunctive relief
+
+will merely require Defendants to comply with contractual obligations that they knowingly and
+
+
+
+                                                  3
+
+         Case 4:25-cv-00442-DGK           Document 8        Filed 06/16/25      Page 3 of 5
+voluntarily agreed to.” Suggestion in Supp. at 18. While the second factor slightly favors Plaintiff,
+
+it carries minimal weight in the analysis.
+
+   III.      Plaintiff has shown a likelihood of success on the merits.
+
+          To demonstrate likelihood of success on the merits, a movant does not need to show that it
+
+ultimately will succeed on its claims, only that the movant’s prospects for success is “at least . . .
+
+sufficiently likely to support the kind of relief it requests.” Noodles Dev., 507 F. Supp. 2d at 1034
+
+(emphasis added) (quotation omitted). That is, the movant need only show “a fair chance of
+
+prevailing.” Phelps-Roper, 509 F.3d at 485 (quotation omitted).
+
+          There is ample evidence in the record that the parties had a franchise agreement that
+
+addressed: (1) royalty and marketing fees; (2) use of confidential information and distinctive
+
+markings; and (3) operating a competing business. There are also allegations that suggest
+
+Defendants have violated one or more of these provisions. As such, Plaintiff has at least a fair
+
+chance of prevailing on at least some of its claims.
+
+   IV.       The public interest does not weigh in Plaintiffs’ favor.
+
+          The Court finds the public interest does not favor either granting or denying the request for
+
+a temporary restraining order. Thus, this factor does not weigh in favor of either side.
+
+   V.        Plaintiffs have not carried their burden.
+
+          After balancing the four factors, the Court holds Plaintiff has not clearly shown entitlement
+
+to the extraordinary and drastic remedy of an ex parte temporary restraining order. See Noodles
+
+Dev., 507 F. Supp. 2d at 1034.
+
+                                              Conclusion
+
+          Plaintiffs’ request for a temporary restraining order is DENIED. The Court withholds
+
+ruling on Plaintiffs’ request for a preliminary injunction until the issue is fully briefed.
+
+
+
+                                                   4
+
+          Case 4:25-cv-00442-DGK           Document 8        Filed 06/16/25      Page 4 of 5
+        IT IS SO ORDERED.
+
+Date:   June 16, 2025                    /s/ Greg Kays______________________
+                                       GREG KAYS, JUDGE
+                                       UNITED STATES DISTRICT COURT
+
+
+
+
+                                      5
+
+        Case 4:25-cv-00442-DGK   Document 8   Filed 06/16/25   Page 5 of 5
