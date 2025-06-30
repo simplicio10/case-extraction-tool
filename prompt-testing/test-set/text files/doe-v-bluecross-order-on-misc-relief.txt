@@ -1,0 +1,357 @@
+ Case: 2:25-cv-00608-DRC-KAJ Doc #: 3 Filed: 06/11/25 Page: 1 of 7 PAGEID #: 18
+
+
+
+                         IN THE UNITED STATES DISTRICT COURT
+                          FOR THE SOUTHERN DISTRICT OF OHIO
+                                   EASTERN DIVISION
+
+JANE DOE, et al.,
+
+                       Plaintiffs,
+
+         v.                                           Civil Action 2:25-cv-00608
+                                                      Judge Douglas R. Cole
+                                                      Magistrate Judge Kimberly A. Jolson
+
+BLUECROSS BLUESHIELD OF
+ILLINOIS, et al.,
+
+                       Defendants.
+
+                                      OPINION & ORDER
+
+         This matter is before the Court on Plaintiffs’ Motion to Proceed Under Pseudonym. (Doc.
+
+2). For the following reasons, the Motion is GRANTED in part and DENIED in part. Plaintiffs
+
+are ORDERED to refile their Complaint, identifying them by their first names and last initials,
+
+within seven (7) days.
+
+I.       BACKGROUND
+
+         Briefly, Plaintiffs’ claims arise under the Employee Retirement Income Security Act
+
+(“ERISA”), 29 U.S.C. § 1132 et seq. (Doc. 1). As alleged, Plaintiff Jane Doe is an employe of
+
+AT&T Services, Inc. and is a participant in AT&T Umbrella Benefit Plan No. 3 (the “Plan”). (Id.
+
+at ¶ 1). Her dependent son, John Doe, is a beneficiary of the Plan. (Id. at ¶ 2). He suffers from
+
+and has been treated for mental illness for many years. (Id. at ¶ 9). In 2024, John Doe’s condition
+
+deteriorated, and doctors recommended in-patient treatment. (Id. at ¶¶ 9–10 (also stating John Doe
+
+continues to be treated in some capacity for mental illness today)). Jane Doe and Defendant
+
+BlueCross BlueShield of Illinois (“BCBSI”), the claims administrator for medical benefits
+
+provided to participants and beneficiaries of the Plan, evaluated treatment facilities together. (Id.
+  Case: 2:25-cv-00608-DRC-KAJ Doc #: 3 Filed: 06/11/25 Page: 2 of 7 PAGEID #: 19
+
+
+
+
+at ¶¶ 5, 11). Jane Doe concluded treatment at Linder Center of Hope in Cincinnati (“LCH”) was
+
+the best option. (Id. at ¶ 11).
+
+        LCH “operates as a private pay facility and does not accept payments from insurers.” (Id.
+
+at ¶ 12 (alleging patients pay fees in advance then seek reimbursement from their insurers or benefit
+
+plans)). It is also an out-of-network provider under the Plan. (Id. ¶ 13). BCBSI representatives
+
+told Jane Doe that John Doe’s treatment would be deemed medically necessary, and Jane Doe’s
+
+out-of-pocket cost would not exceed $15,000. (Id. at ¶¶ 14–17). Ultimately, John Doe’s treatment
+
+at LCH lasted less than four weeks. (Id. at ¶ 18). The treatment cost $47,200, which Jane Doe
+
+paid in full. (Id. at ¶¶ 19–20). When Jane Doe submitted the LCH bill for reimbursement, BCBSI
+
+reimbursed her for “far less than the amounts it had promised.” (Id. at ¶¶ 21–22). Jane Doe
+
+appealed the amount to BCBSI, but her appeal was denied. (Id. at ¶¶ 23–26).
+
+        Plaintiffs now seek, among other things, payment of the out-of-pocket costs they incurred
+
+in excess of the Plan’s out-of-pocket limitation. (Id. at 9; see also id. at ¶¶ 27–65 (bringing claims
+
+of equitable estoppel, unjust enrichment, breach of fiduciary duty, and the Mental Health Parity
+
+Act, 29 U.S.C. § 1185a)). Plaintiffs also seek to proceed under pseudonyms. (Doc. 2). The Court
+
+considers that request here.
+
+II.     STANDARD
+
+        Generally, a complaint must state the names of all the parties. Fed. R. Civ. P. 10(a). But,
+
+in certain circumstances, the Court “may excuse [parties] from identifying themselves.” Doe v.
+
+Porter, 370 F.3d 558, 560 (6th Cir. 2004). “In exercising its discretion, a court must balance the
+
+public’s common law right of access to court proceedings against the interests of litigants in
+
+nondisclosure.” Malibu Media, LLC v. Doe, No. 2:15-CV-2519, 2015 WL 12698036, at *1 (S.D.
+
+Ohio Aug. 26, 2015) (citing In re Polemar Constr. Ltd. P’ship, 23 F. App’x. 423, 425 (6th Cir.
+
+
+
+                                                  2
+  Case: 2:25-cv-00608-DRC-KAJ Doc #: 3 Filed: 06/11/25 Page: 3 of 7 PAGEID #: 20
+
+
+
+
+2001). To determine whether a party’s privacy interests outweigh the presumption in favor of
+
+openness, the Sixth Circuit directs district courts to consider the following:
+
+       (1) whether the [party] seeking anonymity [is] suing to challenge governmental
+       activity; (2) whether prosecution of the suit will compel the [party] to disclose
+       information ‘of the utmost intimacy’; (3) whether the litigation compels [a party]
+       to disclose an intention to violate the law, thereby risking criminal prosecution; and
+       (4) whether the [party is a child].
+
+Porter, 370 F.3d at 560 (citing Doe v. Stegall, 653 F.2d 180, 185-86 (5th Cir. 1981)). “It is also
+
+relevant to consider whether the defendants are being forced to proceed with insufficient
+
+information to present their arguments against the plaintiff’s case.” Citizens for a Strong Ohio v.
+
+Marsh, 123 F. App’x 630, 636 (6th Cir. 2005).
+
+III.   DISCUSSION
+
+       According to Plaintiffs, John Doe’s substantial privacy interests outweigh the presumption
+
+of disclosure of his identity. (Doc. 2). And by extension, his mother, as “John Doe’s privacy
+
+interests are inextricably intertwined with his mother’s.” (Id. at 4). Plaintiffs cite the absence of
+
+prejudice, as well as the second and fourth Porter factors, to support their Motion. The Court
+
+considers the arguments in reverse.
+
+       Beginning with the fourth Porter factor, “[p]laintiffs who are children are especially
+
+vulnerable and courts routinely grant them ‘a heightened protection’” via grants of pseudonymity.
+
+Doe v. Southfield Pub. Sch., No. 24-10760, 2024 WL 1526084, at *1 (E.D. Mich. Apr. 8, 2024);
+
+see also Doe v. Mechanicsburg Sch. Bd. of Educ., 518 F. Supp. 3d 1024, 1027 (S.D. Ohio 2021)
+
+(“Courts frequently grant protective orders to minors who challenge governmental conduct.”). The
+
+same is true of parents of minor children when the child could be identified after revelation of a
+
+parent’s identity. Southfield Pub. Sch., 2024 WL 1526084 at *2.
+
+
+
+
+                                                  3
+  Case: 2:25-cv-00608-DRC-KAJ Doc #: 3 Filed: 06/11/25 Page: 4 of 7 PAGEID #: 21
+
+
+
+
+        Plaintiffs concede that John Doe was not a child at the time of his hospitalization at
+
+LCH―he was 19 years old. (Doc. 2 at 3). Still, Plaintiffs argue that at the time, “he was likewise
+
+not yet fully an adult.” (Id. (citing laws restricting the sale of cigarettes, alcohol, and firearms to
+
+people under the age of 21)). Though a creative argument, the fact remains that John Doe was not
+
+a child during his hospitalization nor when he initiated this lawsuit. Plaintiffs do not provide any
+
+caselaw saying the Court may consider this factor met when the plaintiff at issue is not, in fact, a
+
+child. Therefore, this factor does not weigh in Plaintiffs’ favor.
+
+        The second Porter factor―whether the litigation will compel Plaintiffs to disclose
+
+information of the utmost intimacy―requires more nuanced deliberation. Courts in this Circuit
+
+have noted examples of information of the utmost privacy concern include “matters of a sensitive
+
+and highly personal nature, such as birth control, abortion, homosexuality or the welfare rights of
+
+illegitimate children or abandoned families.” Doe v. UNUM Life Ins. Co., of Am., No. 3:22-CV-
+
+212-DCLC-DCP, 2022 WL 20686965, at *3 (E.D. Tenn. Sept. 20, 2022) (quoting G.E.G. v.
+
+Shinseki, No. 1:10-CV-1124, 2012 WL 381589, at *2 (W.D. Mich. Feb. 6, 2012)). While none of
+
+those are at play here, Plaintiffs argue that John Doe’s “life-threatening mental health condition”
+
+and hospitalization is information of the utmost intimacy. (Doc. 2 at 3). And disclosing either
+
+Doe’s identity would result in stigmatization of both John Doe and other litigants with mental
+
+illnesses. (Id.).
+
+        Up front, Plaintiffs’ argument does not fit neatly into the confines of the second Porter
+
+factor. Stigmatization of mental illness on a grand scale does not necessarily translate to John
+
+Doe’s illness being “information of the utmost intimacy.” And in this Circuit, stigmatization of a
+
+mental illness, even on an individual level, has generally not been enough to push the needle in
+
+analogous circumstances. Cf. Doe v. Carson, No. 19-1566, 2020 WL 2611189, at *2 (6th Cir.
+
+
+
+                                                  4
+  Case: 2:25-cv-00608-DRC-KAJ Doc #: 3 Filed: 06/11/25 Page: 5 of 7 PAGEID #: 22
+
+
+
+
+May 6, 2020) (upholding a district court’s finding that “concerns about stigma and scrutiny from
+
+prospective employers do not involve ‘information of the utmost intimacy’” in a case brought
+
+under the Americans with Disabilities Act)); Koe v. Univ. Hosps. Health Sys., Inc., No. 22-3952,
+
+2024 WL 1048184, at *2 (6th Cir. Mar. 8, 2024); see also UNUM Life Ins. Co., of Am., 2022 WL
+
+20686965, at *3 (noting plaintiffs must generally justify pseudonym requests with more than
+
+“generalized and unspecific fears.”).
+
+       At the same time, the Court does not discount that in very limited cases, certain factual and
+
+legal allegations related to a party’s medical history implicate weighty privacy concerns. For
+
+example, citing “significant privacy concerns,” this Court allows claimants filing cases challenging
+
+a decision of the Commissioner of Social Security―which, by nature, involve detailed discussion
+
+of sensitive medical information―under their first name and last initial only. S.D. Ohio General
+
+Order 22-01. Those same “significant privacy concerns” debatably exist here, where John Doe’s
+
+history of “life-threatening” mental illness and circumstances surrounding his in-patient treatment
+
+will undoubtedly be at the forefront of this litigation. Cf. Doe v. Hartford Life & Acc. Ins. Co.,
+
+237 F.R.D. 545, 550 (D.N.J. 2006) (comparing an ERISA plaintiff with severe, treatment-resistant
+
+bipolar disorder to litigants who receive abortion care or an HIV diagnosis); Smith v. United
+
+Healthcare Ins. Co., No. 18-CV-06336-HSG, 2019 WL 3238918, at *7 (N.D. Cal. July 18, 2019)
+
+(allowing an ERISA plaintiff to proceed anonymously “to preserve her privacy in the sensitive
+
+area of her mental health diagnosis and treatment”).
+
+       What’s more, the Porter factors are not exclusive considerations. See, e.g., Doe v. Fedex
+
+Ground Package Sys., Inc., No. 3:21-CV-00395, 2021 WL 5041286, at * (M.D. Tenn. Oct. 29,
+
+2021); Doe v. Metro. Gov’t of Nashville & Davidson Cnty., 694 F. Supp. 3d 1040, 1043 (M.D.
+
+Tenn. 2023); Plaintiff v. Wayne State Univ., No. 20-CV-11718, 2021 WL 243155, at *7 (E.D.
+
+
+
+                                                 5
+  Case: 2:25-cv-00608-DRC-KAJ Doc #: 3 Filed: 06/11/25 Page: 6 of 7 PAGEID #: 23
+
+
+
+
+Mich. Jan. 29, 2021). To this end, the Court also finds relevant the public’s interest in “ensuring
+
+that cases like [John Doe’s] are adjudicated and the rights of mental illness sufferers are
+
+represented fairly.” Doe v. Provident Life & Acc. Ins. Co., 176 F.R.D. 464, 468 (E.D. Pa. 1997)
+
+(warning that “unscrupulous insurance companies may be encouraged to deny valid claims with
+
+the expectation that [individuals with mental illness] will not pursue their rights in court” should
+
+the plaintiff be denied leave to proceed under a pseudonym). The Court also considers that
+
+Defendants likely will not suffer any prejudice if Plaintiffs are allowed to proceed under a
+
+pseudonym because, by their own admission, Plaintiffs would promptly identify themselves to
+
+Defendants’ counsel. (Doc. 2 at 4). See Citizens for a Strong Ohio, 123 F. App’x at 636.
+
+       On balance, this case presents a close call. Plaintiffs arguably have demonstrated only one
+
+Porter factor. But also weighing in their favor is the public’s interest in the adjudication of this
+
+case and the lack of prejudice to Defendants. In the end, the Court finds a middle ground
+
+sufficiently balances Plaintiffs’ privacy interests with the presumption in favor of open judicial
+
+proceedings. While they may not proceed as “Jane and John Doe,” Plaintiffs will be permitted to
+
+proceed under their first names and last initial. Cf. Kurt W. v. Gartner, Inc., No. 2:24-CV-00504,
+
+2025 WL 589977 (D. Utah Feb. 24, 2025). The Court underscores that this decision strikes the
+
+appropriate balance between openness and privacy for this particular ERISA action. Not all
+
+ERISA actions will present the same factual or legal scenario justifying even the partial relief the
+
+Court allows here. Cf. UNUM Life Ins. Co., of Am., 2022 WL 20686965, at *4 (noting that even
+
+if the Court were to consider out of circuit precedent allowing an ERISA plaintiff to proceed under
+
+a pseudonym, the plaintiff had not shown “her fears regarding her injuries carry similar stigma as
+
+someone with psychiatric disorders.”). In other words, this opinion offers a measured outcome
+
+justified by the relevant considerations―not a one-size-fits-all solution.
+
+
+
+                                                 6
+  Case: 2:25-cv-00608-DRC-KAJ Doc #: 3 Filed: 06/11/25 Page: 7 of 7 PAGEID #: 24
+
+
+
+
+       Plaintiffs are ORDERED to refile their Complaint which conforms to this Order within
+
+the next seven (7) days. Additionally, all parties to this action are GRANTED leave to, in any
+
+filing in this case, redact Plaintiffs’ names so only their first names and last initials are revealed.
+
+Further, because Defendants have not been served, should they wish the Court to reevaluate this
+
+decision, they may file a brief to that end within fourteen (14) days of counsel entering an
+
+appearance.
+
+       As a final note, the Court reminds Plaintiffs of the other avenues available to them to
+
+address additional privacy concerns, such as seeking protective orders or moving to seal filings
+
+from the public docket under Shane Group, Inc. v. Blue Cross Blue Shield of Michigan, 825 F.3d
+
+299 (6th Cir. 2016).
+
+IV.    CONCLUSION
+
+       For the foregoing reasons, Plaintiffs’ Motion to Proceed Under Pseudonym (Doc. 2) is
+
+GRANTED in part and DENIED in part. Plaintiffs are ORDERED to refile their Complaint,
+
+identifying them by their first names and last initials, within seven (7) days.
+
+
+
+Date: June 11, 2025                            /s/ Kimberly A. Jolson
+                                               KIMBERLY A. JOLSON
+                                               UNITED STATES MAGISTRATE JUDGE
