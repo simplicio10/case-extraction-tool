@@ -11,17 +11,20 @@ prompts:
   
 
 providers:
-  - "anthropic:messages:claude-3-5-haiku-latest"
-  - "mistral:mistral-small-latest"
+  - id: "anthropic:messages:claude-3-5-haiku-latest"
+    config:
+      max_tokens: 4096
+  - id: "mistral:mistral-small-latest"
+    config:
+      max_tokens: 4096
   
 
 tests:
   - description: "Returns accurate count of citations in given text file."
     vars:
       brief: file://./test-set/text-files/doe-v-bluecross-order-on-misc-relief.txt
-    options:
-      transform: file://./tests/get_count.py:get_count
     assert:
       - type: equals
         value: "19"
+        transform: file://./tests/get_count.py:get_count
     
