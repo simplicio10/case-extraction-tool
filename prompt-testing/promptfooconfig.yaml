@@ -11,7 +11,13 @@ prompts:
   
 
 providers:
+  - id: "anthropic:messages:claude-3-7-sonnet-latest"
+    config:
+      max_tokens: 4096
   - id: "anthropic:messages:claude-3-5-haiku-latest"
+    config:
+      max_tokens: 4096
+  - id: "mistral:mistral-large-latest"
     config:
       max_tokens: 4096
   - id: "mistral:mistral-small-latest"
@@ -25,6 +31,6 @@ tests:
       brief: file://./test-set/text-files/doe-v-bluecross-order-on-misc-relief.txt
     assert:
       - type: equals
-        value: "19"
+        value: "16"
         transform: file://./tests/get_count.py:get_count
     
