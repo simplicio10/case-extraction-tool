@@ -114,6 +114,7 @@ def refactored_prompt_3(brief):
     </example>
 
     Think step by step. As you think, put your thoughts in <thinking> tags and your final list of cases in <final_list> tags.
+    When <thinking>, you should pay close attention to any cases you find that are borderline principal cases, and evaluate the surrounding context to determine whether it is in fact a principal case.
     All cases should go in <case> tags.
     Finally, provide the total number of cases in <case_count> tags. Please include only a number inside the <case_count> tags.
     """
