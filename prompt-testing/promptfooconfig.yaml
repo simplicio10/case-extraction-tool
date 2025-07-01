@@ -5,10 +5,11 @@
 description: "Testing prompts for a case extraction tool that pulls case citations out of legal briefs and opinions."
 
 prompts:
-  - prompts/prompts.py:basic_initial_prompt
-  - prompts/prompts.py:better_initial_prompt_1
-  - prompts/prompts.py:better_initial_prompt_2
-  - prompts/prompts.py:refactored_prompt
+  #- prompts/prompts.py:basic_initial_prompt
+  #- prompts/prompts.py:better_initial_prompt_1
+  #- prompts/prompts.py:better_initial_prompt_2
+  - prompts/prompts.py:refactored_prompt_1
+  - prompts/prompts.py:refactored_prompt_2
   
 
 providers:
