@@ -18,10 +18,10 @@ providers:
 tests:
   - description: "Returns accurate count of citations in given text file."
     vars:
-      brief: file://./test-set/text files/doe-v-bluecross-order-on-misc-relief.txt
+      brief: file://./test-set/text-files/doe-v-bluecross-order-on-misc-relief.txt
+    options:
+      transform: file://./tests/get_count.py:get_count
     assert:
       - type: equals
         value: "19"
-    options:
-      transform: file://./tests/get_count.py:get_count
-
+    
