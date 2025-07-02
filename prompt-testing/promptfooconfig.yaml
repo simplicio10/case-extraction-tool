@@ -9,8 +9,9 @@ prompts:
   #- prompts/prompts.py:better_initial_prompt_1
   #- prompts/prompts.py:better_initial_prompt_2
   #- prompts/prompts.py:refactored_prompt_1
-  - prompts/prompts.py:refactored_prompt_2
+  #- prompts/prompts.py:refactored_prompt_2
   - prompts/prompts.py:refactored_prompt_3
+  - prompts/prompts.py:refactored_prompt_4
   
 
 providers:
@@ -20,20 +21,28 @@ providers:
   - id: "anthropic:messages:claude-3-5-haiku-latest"
     config:
       max_tokens: 4096
-  - id: "mistral:mistral-large-latest"
-    config:
-      max_tokens: 4096
-  - id: "mistral:mistral-small-latest"
-    config:
-      max_tokens: 4096
+  #- id: "mistral:mistral-large-latest"
+    #config:
+      #max_tokens: 4096
+  #- id: "mistral:mistral-small-latest"
+    #config:
+      #max_tokens: 4096
   
 
 tests:
-  - description: "Returns accurate count of citations in given text file."
+  - description: "Doe case"
     vars:
       brief: file://./test-set/text-files/doe-v-bluecross-order-on-misc-relief.txt
     assert:
       - type: equals
         value: "16"
         transform: file://./tests/get_count.py:get_count
+  - description: "Juker case"
+    vars:
+      brief: file://./test-set/text-files/juker-v-fiddler-memo-in-support-of-motion-to-set-bond.txt
+    assert:
+      - type: equals
+        value: "10"
+        transform: file://./tests/get_count.py:get_count
+    
     

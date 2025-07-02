@@ -118,3 +118,31 @@ def refactored_prompt_3(brief):
     All cases should go in <case> tags.
     Finally, provide the total number of cases in <case_count> tags. Please include only a number inside the <case_count> tags.
     """
+
+def refactored_prompt_4(brief):
+    #Refactored No. 3 to add instructions about short form citations.
+    return f"""
+    Included below is a legal brief:
+    <brief>
+    {brief}
+    </brief>
+
+    Please carefully review the brief and provide me a list of every case that is cited in the brief.
+
+    When a case is cited alongside another case in parentheticals (usually prefaced with a word such as "quoting" or "citing"), 
+    you should only list the principal case. Let me explain what I mean by "principal case" with examples:
+    <examples>
+    1. If the citation is "Zadvydas v. Davis, 533 U.S. 678, 719 (2001) (citing Shaughnessy v. United States ex rel. Mezei, 345 U.S. 206 (1953)),"
+    the principal case is Zadvydas v. Davis, 533 U.S. 678, 719 (2001). Only Zadvydas v. Davis should be counted towards the total list of cases.
+    2. If the citation is "Kansas v. Crane, 534 U.S. 407, 409 (2002) (quoting Kansas v. Hendricks, 521 U.S. 346, 356 (1997),"
+    the principal case is Kansas v. Crane, 534 U.S. 407, 409 (2002). Only Kansas v. Crane should be counted towards the total list of cases.
+    3. Sometimes the citation is a "short form" citation, where the principal case has previously been cited in the brief. You should not count either citation in this case.
+    For example, if the citation is "Zadvydas, 533 U.S. at 719 (citing Shaughnessy v. United States ex rel. Mezei, 345 U.S. 206 (1953))," the principal case is a short form citation.
+    Neither case will count as the principle case in this instance.
+    </example>
+
+    Think step by step. As you think, put your thoughts in <thinking> tags and your final list of cases in <final_list> tags.
+    When <thinking>, you should pay close attention to any cases you find that are borderline principal cases, and evaluate the surrounding context to determine whether it is in fact a principal case.
+    All cases should go in <case> tags.
+    Finally, provide the total number of cases in <case_count> tags. Please include only a number inside the <case_count> tags.
+    """
